@@ -1,2 +1,7 @@
 
-#map { height: 400px; }
+#map { height: 550px;  
+    background-image: url("images/placeholder image.jpeg");
+    background-size: 570px;
+    background-color: #cccccc;
+    
+}
